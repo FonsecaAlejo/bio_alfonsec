@@ -1,4 +1,6 @@
-Soleado y alergias
-'Tiempo de otoÃ±o'
-'Ganas de verano'
-'Vacaciones de diciembre'
+1. Soleado y alergia
+2. 'Tiempo de otoño'
+3. 'Ganas de verano'
+4. 'Vacaciones de fin de año'
+5. 'Vacaciones de diciembre'
+
