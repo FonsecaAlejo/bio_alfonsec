@@ -1,5 +1,7 @@
-Soy Alejo Fonseca y me encanta la programación
+Soy Alejo Fonseca y me encanta la programaciÃ³n
 Soy nuevo en everis
 Soy student
 Soy soltero
 ´Corregido error para hotfix de producción´
+'Incidencia en producción'
+
